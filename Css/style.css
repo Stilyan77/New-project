@@ -53,3 +53,10 @@ h2 {
 m1 {
  float: right;
 }
+
+.box1 {
+ margin:15px;
+ padding:20px;
+ background-color: rgb(255,165,0);
+ font-family: fantasy;
+}
